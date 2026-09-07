@@ -82,7 +82,5 @@ If you want to help with the open problems above:
 Open a GitHub issue or email directly.
 
 ## License
-
-Business Source License 1.1
-Non-commercial use is free.
-Commercial use requires written permission from [Ganesh Kumar](https://www.byganesh.com).
+Apache 2.0  
+[Ganesh Kumar](https://www.byganesh.com).
