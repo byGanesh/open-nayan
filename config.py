@@ -1,0 +1,10 @@
+D          = 128
+N_LAYERS   = 2
+VOCAB      = 50257
+BATCH      = 64
+LR         = 3e-4
+EPOCHS     = 10
+SEQ_LEN    = 32
+MAX_TOKENS = 200_000
+TEMPERATURE = 0.8
+MAX_NEW     = 50
